@@ -66,5 +66,10 @@ public class Cancion1 {
         this.descargada = descargada;
     }
     
+    public String ToString () {
+        return "cancion1("+"titulo =" + titulo + ", artista =" + artista + ", tiempoDuracion =" + tiempoDuracion + ", favorita =" + favorita + ",descargada =" + descargada + '}';
+        
+    }
+    
       
 }
