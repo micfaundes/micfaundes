@@ -11,7 +11,7 @@ public class CONDUCTOR {
     
     private int edad , rut;
     private String tipolicencia , nombre;
-    private AUTO autotito;
+    private AUTO AUTO;
     
 
     public CONDUCTOR(int edad, int rut, String tipolicencia, String nombre) {
