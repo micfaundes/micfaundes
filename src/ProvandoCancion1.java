@@ -22,6 +22,8 @@ public class ProvandoCancion1 {
         
         System.out.println("*****************");
         
+       
+        System.out.println("*****************");
         System.out.println(cancion1);
         System.out.println(cancion2);
         
